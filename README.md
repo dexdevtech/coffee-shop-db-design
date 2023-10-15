@@ -1,5 +1,5 @@
 # ONLINE STORE DATABASE DESIGN FOR COFFEE SHOPS
-This project is created as a reference to individuals who are looking for database design for an online store or ecommerce shop. It is best used to products that will be sold online with an accompanying application -- which needs to store user information, credit card information (optional), products, discounts and promotions, reviews, transactions, addresses, and driver information.
+This project is created as a reference to individuals who are looking for database design for an online store or ecommerce shop. It is best used to online services which needs to store user information, credit card information (optional), products, discounts and promotions, reviews, transactions, addresses, and driver information.
 
 <ul>
     <li> <bold>Organization:</bold> It is a great idea to have a systemized way of storing information into organized connected tables.</li>
@@ -37,13 +37,13 @@ With these steps, you can quickly adapt this project to your online shop's envir
 
 ### Usage:
  
-This [document](https://github.com/Dex-Astorga/coffee-shop-ecom/blob/main/design_guide_coffee_shop.pdf) is a thorough walk through of everything you need to know to use this project. For sample data and sql scripts, you can explore the project folder.
+This [document](https://github.com/dexdevtech/coffee-shop-db-design/blob/main/design-guide-coffee-shop.pdf) is a thorough walk through of everything you need to know to use this project. For sample data and sql scripts, you can explore the project folder.
 
 <br>
 
 ### Database Schema:
 
-![Database ERD](https://github.com/Dex-Astorga/coffee-shop-ecom/blob/main/online_store_coffee_shop.png?raw=true)
+![Database ERD](https://github.com/dexdevtech/coffee-shop-db-design/blob/main/online_store_coffee_shop.png?raw=true)
 
 <br>
 
@@ -63,7 +63,7 @@ This [document](https://github.com/Dex-Astorga/coffee-shop-ecom/blob/main/design
 
 If you encounter a bug or have an idea for improvement:
 
-1. **Submit an Issue:** Visit the [issue tracker](https://github.com/Dex-Astorga/coffee-shop-ecom/issues) and create a new issue.
+1. **Submit an Issue:** Visit the [issue tracker](https://github.com/dexdevtech/coffee-shop-db-design/issues) and create a new issue.
 2. **Provide Details:** Clearly describe the problem or feature request.
 3. **Stay Engaged:** Check for updates on your issue.
 
