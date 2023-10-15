@@ -82,7 +82,7 @@ Interested in contributing code? Follow these steps:
 - Maintain a polite and collaborative tone in discussions.
 - Align contributions with project goals and your vision.
 
-Feel free to reach out with questions or concerns codex1727@gmail.com
+Feel free to reach out with questions or concerns dexdevtech@gmail.com
 
 <br>
 
